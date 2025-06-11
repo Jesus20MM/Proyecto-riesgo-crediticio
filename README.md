@@ -8,8 +8,8 @@ El análisis de los segmentos facilitó la justificación estratégica de accion
 ## Dataset
 El dataset utilizado contiene información financiera y de comportamiento de clientes. Incluye variables como ingresos, historial de crédito, frecuencia de pagos, entre otras.
 
-- **Origen:** [incluir fuente si está disponible]
-- **Número de registros:** [agregar número exacto]
+- **Origen:** 
+- **Número de registros:** 
 - **Variables principales:** Ingresos, pagos, tasas de interés, frecuencia de compra, etc.
 
 ## Metodología
